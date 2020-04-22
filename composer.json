@@ -1,5 +1,5 @@
 {
-  "name": "yii-dream-team/yii2-upload-behavior",
+  "name": "grdonda/yii2-upload-behavior",
   "type": "yii2-extension",
   "description": "Yii2 file/image upload behavior for ActiveRecord",
   "keywords": [
@@ -22,7 +22,7 @@
   ],
   "minimum-stability": "stable",
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=7.0.0",
     "yiisoft/yii2": "*",
     "masterexploder/phpthumb": "dev-master"
   },
