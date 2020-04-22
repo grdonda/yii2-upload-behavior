@@ -24,9 +24,9 @@
   "require": {
     "php": ">=7.0.0",
     "yiisoft/yii2": "*",
-    "masterexploder/phpthumb": "dev"
+    "masterexploder/phpthumb": "dev-master"
   },
-  
+
   "autoload": {
     "psr-4": {
       "yiidreamteam\\upload\\": "./src"
