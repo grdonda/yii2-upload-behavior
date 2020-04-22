@@ -24,14 +24,9 @@
   "require": {
     "php": ">=7.0.0",
     "yiisoft/yii2": "*",
-    "masterexploder/phpthumb": "dev-master"
+    "masterexploder/phpthumb": "dev"
   },
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/yii-dream-team/PHPThumb"
-    }
-  ],
+  
   "autoload": {
     "psr-4": {
       "yiidreamteam\\upload\\": "./src"
