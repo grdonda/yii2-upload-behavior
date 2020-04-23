@@ -22,11 +22,10 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "php": ">=7.0.0",
+    "php": ">=7.2.0",
     "yiisoft/yii2": "*",
-    "masterexploder/phpthumb": "dev-master"
+    "grdonda/phpthumb": "2.1.1"
   },
-
   "autoload": {
     "psr-4": {
       "yiidreamteam\\upload\\": "./src"
