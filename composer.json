@@ -20,11 +20,11 @@
       "role": "Developer"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "require": {
     "php": ">=7.2.0",
-    "yiisoft/yii2": "*",
-    "grdonda/phpthumb": "2.1.*"
+    "yiisoft/yii2": "~2.0.*",
+    "grdonda/phpthumb": "~2.3"
   },
   "repositories": [
     {
